@@ -72,7 +72,7 @@ const App = () => {
         var isns = dates[date]['isn.nps']
         var promotores = dates[date].promotores
         var detractores = dates[date].detractores
-        var promedioObject = dates[date].avgPorPregunta
+        var promedioObject = dates[date].avgPorPregunta[0]
         
         var promedios = []
         for (const pregunta in promedioObject) {
@@ -118,7 +118,7 @@ const App = () => {
       <Donut data = {processedData.donutNPS}></Donut>
       </td>
     </tr>
-    {/*<Table data = {processedData.table}></Table>*/}
+    <Table data = {processedData.table}></Table>
     <p>pencil</p>
     </>)
     
