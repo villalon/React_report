@@ -1,0 +1,310 @@
+{
+
+        "cohorte": [
+            "1614"
+        ],
+        "facultad": [
+            "Facultad de Ingeniería y Ciencias"
+        ],
+        "respuestas": [
+            5
+        ],
+        "preguntas": [
+            "X.Cuál.es.tu.nivel.de.satisfacción.con.el.programa.que.estas.finalizando.",
+            "La.calidad.académica.de.los.profesores.",
+            "La.relevancia.de.los.contenidos.del.programa.",
+            "La.gestión.de.la.coordinadora.académica.",
+            "El.networking.que.se.pudo.realizar.durante.el.programa.",
+            "X.Cómo.evalúas.el.nivel.de.exigencia.en.el.programa.",
+            "Considero.que.la.opción.de.haber.realizado.las.clases.a.través.de.Zoom..fue.mejor.que.haber.suspendido.el.programa.hasta.la.vuelta.a.la.normalidad.",
+            "Considero.que.mis.expectativas.si.se.cumplieron.",
+            "X.Recomendarías.este.programa.a.un.amigo.o.conocido.",
+            "Déjanos.tus.comentarios.y.o.sugerencias..opcional."
+        ],
+        "respuestasPorPregunta": [
+            {
+                "pregunta": "X.Cuál.es.tu.nivel.de.satisfacción.con.el.programa.que.estas.finalizando.",
+                "n": 5.0
+            },
+            {
+                "pregunta": "La.calidad.académica.de.los.profesores.",
+                "n": 5.0
+            },
+            {
+                "pregunta": "La.relevancia.de.los.contenidos.del.programa.",
+                "n": 5.0
+            },
+            {
+                "pregunta": "La.gestión.de.la.coordinadora.académica.",
+                "n": 5.0
+            },
+            {
+                "pregunta": "El.networking.que.se.pudo.realizar.durante.el.programa.",
+                "n": 5.0
+            },
+            {
+                "pregunta": "X.Cómo.evalúas.el.nivel.de.exigencia.en.el.programa.",
+                "n": 5.0
+            },
+            {
+                "pregunta": "Considero.que.la.opción.de.haber.realizado.las.clases.a.través.de.Zoom..fue.mejor.que.haber.suspendido.el.programa.hasta.la.vuelta.a.la.normalidad.",
+                "n": 5.0
+            },
+            {
+                "pregunta": "Considero.que.mis.expectativas.si.se.cumplieron.",
+                "n": 5.0
+            },
+            {
+                "pregunta": "X.Recomendarías.este.programa.a.un.amigo.o.conocido.",
+                "n": 5.0
+            },
+            {
+                "pregunta": "Déjanos.tus.comentarios.y.o.sugerencias..opcional.",
+                "n": 5.0
+            }
+        ],
+        "preguntasTexto": [
+            "X.Cómo.evalúas.el.nivel.de.exigencia.en.el.programa.",
+            "Considero.que.la.opción.de.haber.realizado.las.clases.a.través.de.Zoom..fue.mejor.que.haber.suspendido.el.programa.hasta.la.vuelta.a.la.normalidad.",
+            "Considero.que.mis.expectativas.si.se.cumplieron.",
+            "Déjanos.tus.comentarios.y.o.sugerencias..opcional."
+        ],
+        "valoresTexto": {
+            "X.Cómo.evalúas.el.nivel.de.exigencia.en.el.programa.": [
+                "Medio nivel de exigencia",
+                "Alto nivel de exigencia",
+                "Medio nivel de exigencia",
+                "Medio nivel de exigencia",
+                "Alto nivel de exigencia"
+            ],
+            "Considero.que.la.opción.de.haber.realizado.las.clases.a.través.de.Zoom..fue.mejor.que.haber.suspendido.el.programa.hasta.la.vuelta.a.la.normalidad.": [
+                "De acuerdo",
+                "Completamente de acuerdo",
+                "En desacuerdo",
+                "Completamente de acuerdo",
+                "Completamente de acuerdo"
+            ],
+            "Considero.que.mis.expectativas.si.se.cumplieron.": [
+                "De acuerdo",
+                "Ligeramente de acuerdo",
+                "Completamente de acuerdo",
+                "Completamente de acuerdo",
+                "Completamente de acuerdo"
+            ],
+            "Déjanos.tus.comentarios.y.o.sugerencias..opcional.": [
+                "Con respecto a los ramos finales como transformación digital encuentro que debió dictarse antes.   En algunos ramos se repetía la materia, encuentro que los profesores deben estar al tanto con la materia que pasan los otros o que los mismo profesores sigan con la continuación del ramo así no se pierde el hilo. ",
+                "para el programa, mi recomendación es que no se olviden de hacer ingeniería para la gente y esto incluye a los servicios públicos.",
+                "Me voy muy satisfecho y con una tremenda experiencia, solo dar las gracias por todo el trabajo realizado para poder entregar este programa. ",
+                "Poner atención a contenidos claves. Innovación debe ser tal, ojalá con prototipaje, quizás puede dividirse en innovación 1 y 2. Tecnología digital, debiese estar antes y no en paralelo con el trabajo de tesis. Ajustar los contenidos de estadística, para hacerlo más aplicado con programa R. ",
+                "Considero que los cursos de innovación podrían fusionarse en 1. Además, ojalá destinar más horas de coaching individual."
+            ]
+        },
+        "matriculados": [
+            16
+        ],
+        "tasaRespuesta": [
+            0.31
+        ],
+        "nombre": [
+            "Magíster en Ingeniería Industrial 2019"
+        ],
+        "fechaInicio": [
+            "2019-05-09"
+        ],
+        "coordinadorAdmision": [
+            "pilar.mujica"
+        ],
+        "coordinadorAdmisionPares": [
+            "[]"
+        ],
+        "coordinadorAcademico": [
+            "NULL"
+        ],
+        "programaPadre": [
+            "160"
+        ],
+        "director": [
+            "NULL"
+        ],
+        "codirector": [
+            "NULL"
+        ],
+        "profesores": [
+            "NULL"
+        ],
+        "areaAcademica": [
+            "NULL"
+        ],
+        "preguntasNumericas": [
+            "X.Cuál.es.tu.nivel.de.satisfacción.con.el.programa.que.estas.finalizando.",
+            "La.calidad.académica.de.los.profesores.",
+            "La.relevancia.de.los.contenidos.del.programa.",
+            "La.gestión.de.la.coordinadora.académica.",
+            "El.networking.que.se.pudo.realizar.durante.el.programa.",
+            "X.Recomendarías.este.programa.a.un.amigo.o.conocido."
+        ],
+        "respuestasPorPreguntaNumericas": [
+            {
+                "pregunta": "X.Cuál.es.tu.nivel.de.satisfacción.con.el.programa.que.estas.finalizando.",
+                "n": 5.0
+            },
+            {
+                "pregunta": "La.calidad.académica.de.los.profesores.",
+                "n": 5.0
+            },
+            {
+                "pregunta": "La.relevancia.de.los.contenidos.del.programa.",
+                "n": 5.0
+            },
+            {
+                "pregunta": "La.gestión.de.la.coordinadora.académica.",
+                "n": 5.0
+            },
+            {
+                "pregunta": "El.networking.que.se.pudo.realizar.durante.el.programa.",
+                "n": 5.0
+            },
+            {
+                "pregunta": "X.Recomendarías.este.programa.a.un.amigo.o.conocido.",
+                "n": 5.0
+            }
+        ],
+        "minPorPregunta": [
+            {
+                "X.Cuál.es.tu.nivel.de.satisfacción.con.el.programa.que.estas.finalizando.": 6.0,
+                "La.calidad.académica.de.los.profesores.": 5.0,
+                "La.relevancia.de.los.contenidos.del.programa.": 5.0,
+                "La.gestión.de.la.coordinadora.académica.": 5.0,
+                "El.networking.que.se.pudo.realizar.durante.el.programa.": 6.0,
+                "X.Recomendarías.este.programa.a.un.amigo.o.conocido.": 8.0
+            }
+        ],
+        "maxPorPregunta": [
+            {
+                "X.Cuál.es.tu.nivel.de.satisfacción.con.el.programa.que.estas.finalizando.": 7.0,
+                "La.calidad.académica.de.los.profesores.": 7.0,
+                "La.relevancia.de.los.contenidos.del.programa.": 7.0,
+                "La.gestión.de.la.coordinadora.académica.": 7.0,
+                "El.networking.que.se.pudo.realizar.durante.el.programa.": 7.0,
+                "X.Recomendarías.este.programa.a.un.amigo.o.conocido.": 10.0
+            }
+        ],
+        "avgPorPregunta": [
+            {
+                "X.Cuál.es.tu.nivel.de.satisfacción.con.el.programa.que.estas.finalizando.": 6.4,
+                "La.calidad.académica.de.los.profesores.": 6.4,
+                "La.relevancia.de.los.contenidos.del.programa.": 6.2,
+                "La.gestión.de.la.coordinadora.académica.": 6.6,
+                "El.networking.que.se.pudo.realizar.durante.el.programa.": 6.2,
+                "X.Recomendarías.este.programa.a.un.amigo.o.conocido.": 9.4
+            }
+        ],
+        "medPorPregunta": [
+            {
+                "X.Cuál.es.tu.nivel.de.satisfacción.con.el.programa.que.estas.finalizando.": 6.0,
+                "La.calidad.académica.de.los.profesores.": 7.0,
+                "La.relevancia.de.los.contenidos.del.programa.": 6.0,
+                "La.gestión.de.la.coordinadora.académica.": 7.0,
+                "El.networking.que.se.pudo.realizar.durante.el.programa.": 6.0,
+                "X.Recomendarías.este.programa.a.un.amigo.o.conocido.": 10.0
+            }
+        ],
+        "distribucion": {
+            "X.Cuál.es.tu.nivel.de.satisfacción.con.el.programa.que.estas.finalizando.": [
+                {
+                    "x": "6",
+                    "Freq": 3
+                },
+                {
+                    "x": "7",
+                    "Freq": 2
+                }
+            ],
+            "La.calidad.académica.de.los.profesores.": [
+                {
+                    "x": "5",
+                    "Freq": 1
+                },
+                {
+                    "x": "6",
+                    "Freq": 1
+                },
+                {
+                    "x": "7",
+                    "Freq": 3
+                }
+            ],
+            "La.relevancia.de.los.contenidos.del.programa.": [
+                {
+                    "x": "5",
+                    "Freq": 1
+                },
+                {
+                    "x": "6",
+                    "Freq": 2
+                },
+                {
+                    "x": "7",
+                    "Freq": 2
+                }
+            ],
+            "La.gestión.de.la.coordinadora.académica.": [
+                {
+                    "x": "5",
+                    "Freq": 1
+                },
+                {
+                    "x": "7",
+                    "Freq": 4
+                }
+            ],
+            "El.networking.que.se.pudo.realizar.durante.el.programa.": [
+                {
+                    "x": "6",
+                    "Freq": 4
+                },
+                {
+                    "x": "7",
+                    "Freq": 1
+                }
+            ],
+            "X.Recomendarías.este.programa.a.un.amigo.o.conocido.": [
+                {
+                    "x": "8",
+                    "Freq": 1
+                },
+                {
+                    "x": "9",
+                    "Freq": 1
+                },
+                {
+                    "x": "10",
+                    "Freq": 3
+                }
+            ]
+        },
+        "isn.nps": [
+            1.0,
+            0.8,
+            0.8,
+            0.8,
+            1.0,
+            0.8
+        ],
+        "promotores": [
+            5.0,
+            4.0,
+            4.0,
+            4.0,
+            5.0,
+            4.0
+        ],
+        "detractores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+}
