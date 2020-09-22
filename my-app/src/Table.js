@@ -1,10 +1,11 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '../Css/App.css';
+
 
 
 function Table({data}) {
-        return(
+
+    return(
             <>
                 <div className = 'table-responsive'>
                     <table className = 'table table-striped'>
