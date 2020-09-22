@@ -13,7 +13,7 @@ class DoughnutChartComponent extends Component {
       labels: this.props.data.labels
     }
   }
-  
+
   render() {
     return (
       <div>
@@ -35,4 +35,3 @@ class DoughnutChartComponent extends Component {
   }
 }
 export default DoughnutChartComponent
-
